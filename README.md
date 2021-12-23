@@ -1,4 +1,4 @@
-# JsThisKeyword
+# Js-ThisKeyword
 
 Proyecto de Javascript con fines académicos, con el fin de explicar los diferentes usos de la palabra clave "this".
 Tomado de <https://faheemkhan97.hashnode.dev/the-mysterious-this-keyword-lets-demystify-it>
